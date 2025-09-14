@@ -25,3 +25,10 @@ A simple and visually appealing animated login page built with HTML, CSS, and op
 * CSS3 – Styling, transitions, and animations.
 
 * JavaScript (optional) – Form validation / interactive effects.
+
+
+👨‍💻 Author
+
+HIMANSHU KUMAR ROUT
+
+* GitHub:HimanshuKumarRout
