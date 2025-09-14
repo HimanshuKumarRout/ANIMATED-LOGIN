@@ -31,4 +31,4 @@ A simple and visually appealing animated login page built with HTML, CSS, and op
 
 HIMANSHU KUMAR ROUT
 
-* GitHub:[Himanshu Kumar Rout](https://github.com/HimanshuKumarRout/ANIMATED-LOGIN)
+* GitHub:[Himanshu Kumar Rout] (https://github.com/HimanshuKumarRout/ANIMATED-LOGIN)
