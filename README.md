@@ -6,22 +6,22 @@ A simple and visually appealing animated login page built with HTML, CSS, and op
 
 🚀 Features
 
-.🎨 Clean and modern UI
+*🎨 Clean and modern UI
 
-.✨ Smooth animations and transitions
+*✨ Smooth animations and transitions
 
-.📱 Fully responsive design
+*📱 Fully responsive design
 
-.🔑 User-friendly login form (username & password fields)
+*🔑 User-friendly login form (username & password fields)
 
-.🖌️ Easy to customize and integrate into projects
+*🖌️ Easy to customize and integrate into projects
 
 
 
 🛠️ Technologies Used
 
-.HTML5 – Structure of the page
+*HTML5 – Structure of the page
 
-.CSS3 – Styling, transitions, and animations
+*CSS3 – Styling, transitions, and animations
 
-.JavaScript (optional) – Form validation / interactive effects
+*JavaScript (optional) – Form validation / interactive effects
